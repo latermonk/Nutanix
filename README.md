@@ -21,6 +21,11 @@ https://demo.nutanix.com/
 
 
 
+#  CERTIFICAION：
+## NCP:
+https://next.nutanix.com/blog-40/want-to-get-ncp-certified-for-free-at-next-advance-prep-suggestions-that-may-help-you-out-31996  
+
+
 
 
 
