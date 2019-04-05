@@ -38,5 +38,10 @@ https://next.nutanix.com/blog-40/want-to-get-ncp-certified-for-free-at-next-adva
 
 
 
+```
+moreCertMore$@2019!.
+```
+
+
 
 
