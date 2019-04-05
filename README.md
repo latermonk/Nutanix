@@ -1,6 +1,9 @@
 # Nutanix
 
 
+### 宝典
+https://nutanixbible.com
+
 ### XTRIBE
 
 https://partnerxtribe.nutanix.com
