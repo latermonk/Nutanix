@@ -37,6 +37,15 @@ https://next.nutanix.com/blog-40/want-to-get-ncp-certified-for-free-at-next-adva
 
 
 
+# CE部署
+
+## Nutanix-CE版部署指南
+https://www.kclouder.cn/nutanix-ce-deploy-1/
+https://www.kclouder.cn/nutanix-ce-deploy-2/
+https://www.kclouder.cn/nutanix-ce-deploy-3/
+
+
+
 
 ```
 moreCertMore$@2019!.
