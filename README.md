@@ -1,5 +1,12 @@
 # Nutanix
 
+## ARCH
+![](https://raw.githubusercontent.com/latermonk/Nutanix/master/images/nu-arch01.png)
+![](https://raw.githubusercontent.com/latermonk/Nutanix/master/images/nu-arch02.png)
+![](https://raw.githubusercontent.com/latermonk/Nutanix/master/images/nu-arch03.png)
+![](https://raw.githubusercontent.com/latermonk/Nutanix/master/images/nu-arch04.png)
+
+
 
 ### 宝典
 https://nutanixbible.com
